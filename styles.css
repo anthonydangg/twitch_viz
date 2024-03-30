@@ -1,0 +1,33 @@
+#tooltip {
+    border: 1px solid #ccc;
+    padding: 10px;
+    opacity: 0;
+    pointer-events: none;
+}
+
+.bar {
+    display: flex;
+    align-items: flex-start;
+  }
+  
+.bar_plot {
+    display: flex;
+  }
+  
+.legend {
+    margin-left: 20px; /* Adjust the margin as per your preference */
+  }
+
+body {
+    background-color: #282828;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+.section {
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+
+  
